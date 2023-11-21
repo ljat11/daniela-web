@@ -3,3 +3,16 @@
   margin: 0;
   padding: 0;
 }
+
+main > .bg {
+  background-color: #1a4152;
+  color: #d9bba9;
+}
+
+strong {
+    font-size: 19px;
+  color: #0a0a53e0;
+}
+.txt-titulo{
+    color: #0a0a53e0;
+}
